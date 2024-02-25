@@ -2,25 +2,25 @@
 
 # 🔥 Skills 🔥
 
-### 🔹Frontend & Backend Languages:ㅤㅤㅤㅤㅤㅤㅤ
+### Frontend & Backend:ㅤㅤㅤㅤㅤㅤㅤ
 
 <p style="padding:10px;">
-    <a href="https://www.java.com" target="_blank"> <img src="https://icons8.com/icon/NfbyHexzVED"/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src=""/> </a>
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/>
-        <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+<a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=80&id=NfbyHexzVEDk&format=png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=54087&format=png"/> </a>
+    <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
 </p>
 
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
 <p style="padding:10px;"> 
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=38561&format=png" height=60 width=60 /> </a>
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=80&id=ROMfFZ1tMhpk&format=png" height=60 width=60 /> </a>
-    <a style="padding:15px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/?size=80&id=mHi46t5vguiz&format=png" height=60 width=60 /> </a>
-    <a style="padding:15px;" href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
+    <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
+    <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=38561&format=png" height=60 width=60 /> </a>
+    <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/?size=80&id=ROMfFZ1tMhpk&format=png" height=60 width=60 /> </a>
+    <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/?size=80&id=mHi46t5vguiz&format=png" height=60 width=60 /> </a>
+    <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
 </p>
 
 ### 🔹Architectural Styles:ㅤㅤㅤㅤㅤㅤㅤㅤ
