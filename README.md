@@ -2,7 +2,7 @@
 
 # 🔥 Skills 🔥
 
-### Frontend & Backend:ㅤㅤㅤㅤㅤㅤㅤ
+### 🔹Frontend & Backend:ㅤㅤㅤㅤㅤㅤㅤ
 
 <p style="padding:10px;">
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png"/> </a>
