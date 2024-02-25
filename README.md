@@ -5,9 +5,9 @@
 ### Frontend & Backend:ㅤㅤㅤㅤㅤㅤㅤ
 
 <p style="padding:10px;">
-<a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=64&id=t4YbEbA834uH&format=png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=123603&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=54087&format=png"/> </a>
     <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
