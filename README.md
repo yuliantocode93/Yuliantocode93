@@ -8,6 +8,7 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=108784&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=uJM6fQYqDaZK&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=123603&format=png"/> </a>
+    <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=jD-fJzVguBmw&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=54087&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png"/> </a>
