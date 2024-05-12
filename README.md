@@ -19,7 +19,6 @@
 
 <p style="padding:10px;"> 
     <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" height=60 width=60/> </a>
-    <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=38561&format=png" height=60 width=60 /> </a>
     <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/?size=80&id=ROMfFZ1tMhpk&format=png" height=60 width=60 /> </a>
     <a style="padding:15px;" href="" target="_blank"> <img src="https://img.icons8.com/color/452/mongodb.png" height=60 width=60 /> </a>
 </p>
