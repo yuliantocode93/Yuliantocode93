@@ -13,7 +13,6 @@
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=54087&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=H1KbyT4SuFDe&format=png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/?size=48&id=PZQVBAxaueDJ&format=png"/> </a>
-    <a href="https://www.go.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/golang.png"/> </a>
 </p>
 
 ### 🔹Databases:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
